@@ -1,1 +1,1 @@
-# (link)[https://zzcat.github.io/gameTest/index.html]
+# [link](https://zzcat.github.io/gameTest/index.html)
